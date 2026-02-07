@@ -1,0 +1,2 @@
+# logos
+game logos only
